@@ -1548,8 +1548,8 @@ header .logo a {
 }
 @media only screen and (max-width:768px) {
 	.intro-info img {
-		height: 7.8rem;
-		width: 7.8rem;
+		height: 12.3rem;
+		width: 10.5rem;
 	}
 	.intro-info .lead {
 		padding-left: 11rem;
