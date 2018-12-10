@@ -1516,6 +1516,7 @@ header .logo a {
 .about-content .info-list li span {
 	display: block;
 	font-family: "poppins-regular", sans-serif;
+	text-align: justify;
 	color: #888888;
 	font-size: 1.5rem;
 	line-height: 1;
