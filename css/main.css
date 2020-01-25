@@ -1897,7 +1897,7 @@ header .logo a {
 	text-transform: uppercase;
 	letter-spacing: .1rem;
 	display: block;
-	text-align: left;
+	text-align: center;
 	color: rgba(0, 0, 0, 0.5);
 }
 .popup-modal .link-box {
