@@ -124,6 +124,7 @@ p img {
 }
 p.lead {
 	font-family: "lora-regular", serif;
+	text-align: justify;
 	font-size: 2rem;
 	line-height: 1.8;
 	color: #888888;
@@ -1481,7 +1482,7 @@ header .logo a {
 	float: left;
 }
 .intro-info .lead {
-	text-align: left;
+	text-align: justify;
 	padding-left: 13rem;
 }
 
